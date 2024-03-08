@@ -1,0 +1,2 @@
+//Exoskeleton Starter Script
+print("Exoskeleton Client")

@@ -1,0 +1,5 @@
+Download python 3.11+ from python.org or microsoft store.
+Download the folder
+Extract the folder into downloads
+Double click on exoskel.py and run it.
+Thats it!

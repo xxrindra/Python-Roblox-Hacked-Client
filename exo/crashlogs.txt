@@ -1,0 +1,2 @@
+error 103 occured while//Exoskeleton Starter Script
+print("Exoskeleton Client")was running.
